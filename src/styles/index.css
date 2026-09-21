@@ -9,3 +9,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+	background: linear-gradient(135deg, #e0f7fa, #fce4ec);
+	min-height: 100vh;
+}
